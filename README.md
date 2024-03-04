@@ -10,7 +10,14 @@ Programming Language(프로그래밍 언어), Numbers(숫자)
 
 ## **Table of contents(목차)**
 
-1. Links(링크)
+1. Features(특징)
+2. Links(링크)
+
+# **Features(특징)**
+
+All grammars consist of numbers only. For instance, 05 10 32 declares an int32 variable named 10.
+
+모든 문법은 숫자로만 구성됩니다. 예를 들면, 05 10 32은 10이라는 이름의 int32 변수를 선언합니다.
 
 # **Links(링크)**
 

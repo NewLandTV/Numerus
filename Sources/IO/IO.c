@@ -14,8 +14,7 @@ void Print(char* string)
     }
 }
 
-void Scan(char* out)
+void PrintInteger32(int value)
 {
-    scanf("%[^\n]s", out);
-    getchar();
+    printf("%d", value);
 }

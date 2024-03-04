@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "numerus.h": "c"
+        "numerus.h": "c",
+        "variable.h": "c"
     }
 }
