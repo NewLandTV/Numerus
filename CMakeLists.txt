@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(
     Numerus
-    VERSION 0.0.1
+    VERSION 0.0.2
     DESCRIPTION "Programming Language Only Numbers"
     LANGUAGES C
 )

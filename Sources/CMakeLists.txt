@@ -1,2 +1,4 @@
+add_subdirectory(IO)
+
 file(GLOB_RECURSE SOURCE_FILES CONFIGURE_DEPENDS "*.c")
-add_executable(${PROJECT_NAME} ${SOURCE_FILES})
+add_executable(${PROJECT_NAME} ${SOURCE_FILES} ${IO_FILES})
