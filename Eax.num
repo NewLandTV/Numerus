@@ -1,0 +1,13 @@
+? Declare integer32 variables.
+05 10 32
+05 11 32
+
+? Input two numbers.
+01 10
+01 11
+
+? Add two numbers.
+03295 10 11
+
+? Put value of EAX register.
+082 696588
