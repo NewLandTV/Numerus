@@ -4,6 +4,8 @@ This project was developed because I wanted to create a programming language tha
 
 이 프로젝트는 전적으로 숫자로만 구성된 프로그래밍 언어를 만들고 싶었기 때문에 개발되었습니다.
 
+[Playlist(재생목록)](https://www.youtube.com/playlist?list=PLG6918Ng_f9uIQUVp9y-807ByXcINVhB7)
+
 # **Keywords(키워드)**
 
 Programming Language(프로그래밍 언어), Numbers(숫자)
