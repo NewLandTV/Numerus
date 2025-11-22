@@ -1,27 +1,27 @@
-# **Introduction(¼Ò°³)**
+# **Introduction(ì†Œê°œ)**
 
 This project was developed because I wanted to create a programming language that consisted entirely of numbers.
 
-ÀÌ ÇÁ·ÎÁ§Æ®´Â ÀüÀûÀ¸·Î ¼ıÀÚ·Î¸¸ ±¸¼ºµÈ ÇÁ·Î±×·¡¹Ö ¾ğ¾î¸¦ ¸¸µé°í ½Í¾ú±â ¶§¹®¿¡ °³¹ßµÇ¾ú½À´Ï´Ù.
+ì´ í”„ë¡œì íŠ¸ëŠ” ì „ì ìœ¼ë¡œ ìˆ«ìë¡œë§Œ êµ¬ì„±ëœ í”„ë¡œê·¸ë˜ë° ì–¸ì–´ë¥¼ ë§Œë“¤ê³  ì‹¶ì—ˆê¸° ë•Œë¬¸ì— ê°œë°œë˜ì—ˆìŠµë‹ˆë‹¤.
 
-# **Keywords(Å°¿öµå)**
+# **Keywords(í‚¤ì›Œë“œ)**
 
-Programming Language(ÇÁ·Î±×·¡¹Ö ¾ğ¾î), Numbers(¼ıÀÚ)
+Programming Language(í”„ë¡œê·¸ë˜ë° ì–¸ì–´), Numbers(ìˆ«ì)
 
-## **Table of contents(¸ñÂ÷)**
+## **Table of contents(ëª©ì°¨)**
 
-1. Features(Æ¯Â¡)
-2. Links(¸µÅ©)
+1. Features(íŠ¹ì§•)
+2. Links(ë§í¬)
 
-# **Features(Æ¯Â¡)**
+# **Features(íŠ¹ì§•)**
 
 All grammars consist of numbers only. For instance, 05 10 32 declares an int32 variable named 10.
 
-¸ğµç ¹®¹ıÀº ¼ıÀÚ·Î¸¸ ±¸¼ºµË´Ï´Ù. ¿¹¸¦ µé¸é, 05 10 32Àº 10ÀÌ¶ó´Â ÀÌ¸§ÀÇ int32 º¯¼ö¸¦ ¼±¾ğÇÕ´Ï´Ù.
+ëª¨ë“  ë¬¸ë²•ì€ ìˆ«ìë¡œë§Œ êµ¬ì„±ë©ë‹ˆë‹¤. ì˜ˆë¥¼ ë“¤ë©´, 05 10 32ì€ 10ì´ë¼ëŠ” ì´ë¦„ì˜ int32 ë³€ìˆ˜ë¥¼ ì„ ì–¸í•©ë‹ˆë‹¤.
 
-# **Links(¸µÅ©)**
+# **Links(ë§í¬)**
 
-* [JkhTV YouTube(Àå°æÇõtv)](https://www.youtube.com/@NewLand2019-JkhTV)
-* [NewLand Cafe(New·£µå Ä«Æä)](https://cafe.naver.com/2019newland)
-* [NewLand Discord(New·£µå µğ½ºÄÚµå)](https://discord.gg/2J646MaZGA)
-* [JkhTV Tistory(Àå°æÇõtvÀÇ Æ¼½ºÅä¸®)](https://jkhtv.tistory.com)
+* [JkhTV YouTube(ì¥ê²½í˜tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
+* [NewLand Cafe(Newëœë“œ ì¹´í˜)](https://cafe.naver.com/2019newland)
+* [NewLand Discord(Newëœë“œ ë””ìŠ¤ì½”ë“œ)](https://discord.gg/2J646MaZGA)
+* [JkhTV Tistory(ì¥ê²½í˜tvì˜ í‹°ìŠ¤í† ë¦¬)](https://jkhtv.tistory.com)
